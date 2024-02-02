@@ -1,4 +1,7 @@
 #include "hash_tables.h"
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
 
 /**
  * hash_table_set - Add or update an element in a hash table.
@@ -8,6 +11,8 @@
  *
  * Return: Upon failure - 0.
  *         Otherwise - 1.
+ * bruno owino
+ * brunookoth44@gmail.com
  */
 int hash_table_set(hash_table_t *ht, const char *key, const char *value)
 {
