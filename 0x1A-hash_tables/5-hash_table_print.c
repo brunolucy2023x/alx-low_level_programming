@@ -1,4 +1,7 @@
 #include "hash_tables.h"
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
 
 /**
  * hash_table_print - Prints a hash table.
@@ -6,6 +9,8 @@
  *
  * Description: Key/value pairs are printed in the order
  *              they appear in the array of the hash table.
+ * bruno owino
+ * brunookoth44@gmail.com
  */
 void hash_table_print(const hash_table_t *ht)
 {
