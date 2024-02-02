@@ -1,4 +1,7 @@
 #include "hash_tables.h"
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
 
 /**
  * key_index - Get the index at which a key/value
@@ -8,6 +11,8 @@
  *
  * Return: The index of the key.
  * Description: Uses the djb2 algorithm.
+ * Bruno Owino.
+ * brunookoth44@gmail.com
  */
 unsigned long int key_index(const unsigned char *key, unsigned long int size)
 {
