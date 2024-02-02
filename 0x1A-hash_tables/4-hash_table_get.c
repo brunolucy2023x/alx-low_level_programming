@@ -4,8 +4,6 @@
 #include <string.h>
 
 /**
- * bruno  owino
- * brunookoth44@gmail.com
  * hash_table_get - Retrieve the value associated with
  *                  a key in a hash table.
  * @ht: A pointer to the hash table.
