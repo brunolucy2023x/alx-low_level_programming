@@ -1,6 +1,4 @@
 #include "hash_tables.h"
-#ifndef HASH_TABLES_H
-#define HASH_TABLES_H
 
 #include <stdio.h>
 #include <stdlib.h>
