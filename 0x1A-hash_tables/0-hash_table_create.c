@@ -7,6 +7,7 @@
  * hash_table_create - Creates a hash table.
  * @size: The size of the array.
  *  Bruno Owino.
+ *  brunookoth44@gmail.com
  *
  * Return: If an error occurs - NULL.
  *         Otherwise - a pointer to the new hash table.
