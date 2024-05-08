@@ -2,13 +2,10 @@
 
 /**
  * binary_search - function that searches for array value in array sorted array
- * of integers using Binary search algorithm.
+ * brunookoth44@gmail.com
  * @array: pointer to the first element of the array to search in.
  * @size: number of elements in array.
  * @value: value to search for.
- *
- * You can assume that value won’t appear more than once in array.
- * If value is not present in array or if array is NULL return -1.
  *
  * Return: the index where value is located.
  */
